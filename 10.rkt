@@ -2,8 +2,8 @@
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname set00ex10) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp")))))
 ; sumlarger : Number Number Number -> Number
-; Given: three numbers
-; Results: addition of the largest two of the three numbers.
+; Given: Three numbers
+; Results: Addition of the largest two of the three numbers.
 ; Example:
 ; (sumlarger 2 6 4) => 10
 ; (sumlarger 10 24 37) => 61
