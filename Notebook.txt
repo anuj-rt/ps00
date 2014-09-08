@@ -1,0 +1,22 @@
+Date    Who       Start   Stop     Interruptions Question                 TimeOnTask    Comments
+08/27	AT		  12.30   12.42 		 		 Dr Racket setup		     12		   Downloaded and installed Dr Racket.
+08/27	AT		  12.42	  13.05			         CCIS account setup		     23		   Created the CCIS account.
+09/02	AT		  15.00	  15.20			 		 MS Office 365 setup         20		   Downloaded and installed MS Office 365.
+09/02	AT		  15.20   15.50          		 Piazza and Github setup     30		   Signed up for piazza and gihub. Installed the desktop client for both.
+09/04   AT		  13.20   13.25			1  		 1							 04        Reread the contract and purpose statement description
+09/04   AT        13.25   13.35			6        2                           04        Reread the coding conventions.
+09/04   AT		  13.35	  13.40			1        3                           04        Read the check-within description
+09/05   AT		  13.56	  14.07                  4                           11        Went through piazza to see whether a condition for negative number is required.
+09/05   AT        14.07   14.20                  5                           13        Read the sqr syntax and usage.
+09/05   AT        14.20   14.30                  6                           10        Read the description of sqrt. Tested the function with two examples.
+09/06   AT        15.54   15.59                  7                           05        Defined the function and tested with the given examples.
+09/06   AT        15.59   16.04                  8                           05        Defined the function and took two example to test.
+09/06   AT        16.04   16.14                  9                           10        Checked on piazza for the name for the predicate instead of even?.
+09/06   AT        16.14   16.24                  10                          10        Checked for any function that returns the largest two of the three number.
+
+=============Committing to Github: 09/07 19.24===============================
+09/07   AT        19.53   19.58                                              05        Committed the set with the notebook.
+
+
+Total time on Task(minutes)                   166
+TOT (hours and tenth)						  2.8
