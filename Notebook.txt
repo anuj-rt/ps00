@@ -28,18 +28,66 @@ Date    Who       Start   Stop     Interruptions Question                 TimeOn
 09/13   AT        00.45   00.47                                              02        Committed the previously done exercises to github
     
 
-10/13   AT        00.47   01.20                  16                          33        Read all the functions and description of image functions
-10/13   AT        01.20   01.39          10      17                          09        Read the rectangle functions description
-10/13   AT        01.40   01.50          02      18                          08        Checked piazza what the function was suppose to do.
-10/13   AT        14.45   15.03          03      19                          15        Had some confusion about what to include in example.
-10/13   AT        15.03   15.35          05      20                          27        
-10/13   AT        15.35   16.10          15      21                          20 
-10/13   AT        16.10   16.30          05      21a                         15  
-10/13   AT        15.40   15.45                  22                          05        Read the description of list
-10/13   AT        15.45   15.49                  23                          04        Read the question twice to understand what is expected
-10/13   AT        
+09/13   AT        00.47   01.20                  16                          33        Read all the functions and description of image functions
+09/13   AT        01.20   01.39          10      17                          09        Read the rectangle functions description
+09/13   AT        01.40   01.50          02      18                          08        Checked piazza what the function was suppose to do.
+09/13   AT        14.45   15.03          03      19                          15        Had some confusion about what to include in example.
+09/13   AT        15.03   15.35          05      20                          27        
+09/13   AT        15.35   16.10          15      21                          20 
+09/13   AT        16.10   16.30          05      21a                         15  
+09/13   AT        16.40   15.45                  22                          05        Read the description of list
+09/13   AT        16.45   16.49                  23                          04        Read the question twice to understand what is expected
+09/13   AT        16.49   17.10          03      24                          18        Went through the possible functions of list
+09/14   AT        12.40   12.53                  25                          13        
+09/14   AT        12.53   13.10          05      26                          12        Went through the string functions in documentation
 
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        13.46   13.47                                              01        Committed the excercises done on 13th and 14th
 
+09/14   AT        16.55   17.10                   29                         15        Completed ex 29 first
 
-Total time on Task(minutes)                   166
-TOT (hours and tenth)						  2.8
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        15.10   15.11                                              01        Committed excercise 29
+
+09/14   AT        19.20   19.47          05       27                         22         Used the predefined string functions
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        19.47   19.48                                              01        Committed excercise 27
+
+09/14   AT        19.48   20.08          10       27a                        10        Used the function from ex 27
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        20.08   20.09                                              01        Committed excercise 27a
+
+09/14   AT        21.30   22.14           15      28                         29        Couldn't figure out the way to shift the string to next line 
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        22.14   22.15                                              01        Committed excercise 28
+
+09/14   AT        22.15   22.43                   30                         28        tried different ways to do the same task using functions
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        22.43   22.44                                              01        Committed excercise 30
+
+09/14   AT        22.44   23.17                   31                         33        Couldn't quite understand the problem in once
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        23.17   23.18                                              01        Committed excercise 31
+
+09/14   AT        23.18   23.36                   20                         18        Made some changes to the program                
+
+==============Committing to Github: 09/14 13.26================================
+09/14   AT        23.36   23.37                                              01        Committed the updated version of ex 20
+
+09/15   AT        15.30   15.58             10    26                         18        Made some changes to the program                
+
+==============Committing to Github: 09/14 13.26================================
+09/15   AT        15.58   15.59                                              01        Committed the updated version of ex 26
+
+09/15   AT        15.59   16.47           10+25   32                         13        Read the problem more than twice to understand clearly what is needed                
+
+==============Committing to Github: 09/14 13.26================================
+09/15   AT        16.47   16.48                                              01        Committed excercise 32
+
+Total time on Task(minutes)                   584
+TOT (hours and tenth)						  9.8
